@@ -5955,9 +5955,10 @@ landscape:
             logo: CloudTTY.svg
             crunchbase: https://www.crunchbase.com/organization/daocloud
           - item:
-            name: CodeZero
+            name: Codezero
             description: Tools for local collaborative development in pre-production Kubernetes clusters
             homepage_url: https://codezero.io/
+            repo_url: https://github.com/c6o/codezero
             logo: codezero.svg
             twitter: https://twitter.com/codezeroio
             crunchbase: https://www.crunchbase.com/organization/traxitt-inc
